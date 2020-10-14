@@ -1,0 +1,1 @@
+INSERT INTO test VALUES {"a": 'a', b: -2.3}, {a: 1, d: true}

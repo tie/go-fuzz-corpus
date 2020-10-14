@@ -1,0 +1,1 @@
+SELECT * FROM test WHERE age = 10 ORDER BY a.b.c DESC

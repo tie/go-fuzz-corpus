@@ -1,0 +1,1 @@
+age >= 10 AND age > $age OR age < 10.4

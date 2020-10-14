@@ -1,0 +1,1 @@
+UPDATE test UNSET a, b WHERE age = 10

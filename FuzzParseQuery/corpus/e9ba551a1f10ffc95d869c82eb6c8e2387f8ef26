@@ -1,0 +1,1 @@
+INSERT INTO test (a, b) VALUES ('c', 'd'), ('e', 'f')

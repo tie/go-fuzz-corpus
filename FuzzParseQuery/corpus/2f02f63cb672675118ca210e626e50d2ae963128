@@ -1,0 +1,1 @@
+UPDATE test WHERE age = 10
