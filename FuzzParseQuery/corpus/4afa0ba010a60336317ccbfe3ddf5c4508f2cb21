@@ -1,1 +1,0 @@
-UPDATE test SET a = 1, b = 2 WHERE age = 10

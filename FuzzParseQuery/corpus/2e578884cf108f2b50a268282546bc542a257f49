@@ -1,1 +1,0 @@
-CREATE TABLE test(dp DOUBLE PRECISION, r real, d double)

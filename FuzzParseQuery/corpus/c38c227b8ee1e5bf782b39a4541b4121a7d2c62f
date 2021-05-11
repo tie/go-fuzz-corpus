@@ -1,1 +1,0 @@
-CREATE TABLE test(i integer, b blob, byt bytes, t text, a array, d document)
